@@ -1,5 +1,5 @@
 # CS 110
-## Lab 9 - Creating a String Library
+## Lab 8 - Creating a String Library
 
 ### [Assignment Description](https://docs.google.com/document/d/1y_jvdf4tiNYyqNEkz-w9HXeigK8qQ45d-E4J1fvDBXk/edit?usp=sharing)
 
